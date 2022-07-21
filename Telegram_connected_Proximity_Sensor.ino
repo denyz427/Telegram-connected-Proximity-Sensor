@@ -13,7 +13,7 @@ String ssid = "WiFi_Name";
 String pass = "WiFi_Password";
 String Gantissid;
 String Gantipass;
-String token = "Telegram_Bot_Token";
+String token = "Telegram_Bot_Token"; //How to get Telegram token: https://core.telegram.org/bots#6-botfather
 int id;
 TBMessage msg; //for Storing Telegram Chat Text
 int a;
