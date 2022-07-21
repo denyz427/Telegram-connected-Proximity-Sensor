@@ -1,7 +1,7 @@
 //Coded By denyz427 on 22th April 2021 more projects at https://github.com/denyz427
 //Board: NodeMCU
-//Install CTBot Library: Sketch -> Include Library -> Manage Libraries -> Search "CTBot" -> Install
 
+//Install CTBot Library: Sketch -> Include Library -> Manage Libraries -> Search "CTBot" -> Install
 #include "CTBot.h"
 
 #define Trig D7 //Trigger pin
