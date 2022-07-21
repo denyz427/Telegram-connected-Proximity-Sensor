@@ -7,7 +7,7 @@
 #define Trig D7 //Trigger pin
 #define Echo D8 //Echo pin
 
-//Variabel telegram
+//Telegram Variables
 CTBot myBot;
 String ssid = "WiFi_Name";
 String pass = "WiFi_Password";
